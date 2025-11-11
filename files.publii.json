@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "5616a952d832b4e3e5b7138421df7c00"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "8543259430963e49e857327ac2142928"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "dfa48410f74049c5040cf33bf8f96440"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "6d35f66c6012f453d4795e7682d375b3"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "748f9c4976d60a1d3a7aff13878bf428"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-7.jfif",
+        "type": "file",
+        "md5": "dd1e16dfa3603cbd973fef034ef329e8"
+    },
+    {
+        "path": "online-quran-teaching-websites-a-new-era-of-quran-learning-for-all-ages",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-teaching-websites-a-new-era-of-quran-learning-for-all-ages/index.html",
+        "type": "file",
+        "md5": "b380e8922309b2e136ea2b0beef60439"
+    },
+    {
+        "path": "online-quran-teaching-websites-the-modern-path-to-mastering-quran-learning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-teaching-websites-the-modern-path-to-mastering-quran-learning/index.html",
+        "type": "file",
+        "md5": "9d3da8586cd401e1a36578ada7cdc488"
+    },
+    {
+        "path": "online-quran-teaching-websites-your-complete-guide-to-learning-the-quran-online",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-teaching-websites-your-complete-guide-to-learning-the-quran-online/index.html",
+        "type": "file",
+        "md5": "5b21438ae68760a0ba39fb6bea4dc46b"
+    },
+    {
+        "path": "quran-reading-online-with-tajweed-a-modern-path-to-perfect-quran-recitation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-online-with-tajweed-a-modern-path-to-perfect-quran-recitation/index.html",
+        "type": "file",
+        "md5": "f807c32d66ea3e48d31b2e4b0fa14a7c"
+    },
+    {
+        "path": "quran-reading-online-with-tajweed-your-complete-guide-to-mastering-quran-recitation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-online-with-tajweed-your-complete-guide-to-mastering-quran-recitation/index.html",
+        "type": "file",
+        "md5": "b2fd56129a02a049c29ba63985a09c1a"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "3852a0ca29bde65478b65cd82e0cb313"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "d9ce163f8e305aa74e6c065a69749c8e"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "8ac0a936563e2172c6e33b48baac16ca"
+    }
+]
